@@ -13,3 +13,5 @@ ___________________________________________________________
 ____________________________________________________
 
 план на 6 семестр : https://docs.google.com/document/d/1m0lcEhli9NMyNknc9IfVuDZlBCC2c4xi9PsvWZorBWI/edit?tab=t.0
+___________________________________________________
+Тест ПМ : https://drive.google.com/drive/folders/1kE-D9hy_FP_cUUTafCogSeMA-9NAfIZq
