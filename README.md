@@ -15,3 +15,6 @@ ____________________________________________________
 план на 6 семестр : https://docs.google.com/document/d/1m0lcEhli9NMyNknc9IfVuDZlBCC2c4xi9PsvWZorBWI/edit?tab=t.0
 ___________________________________________________
 Тест ПМ : https://drive.google.com/drive/folders/1kE-D9hy_FP_cUUTafCogSeMA-9NAfIZq
+
+_________________________________________________
+Мат моделирование: https://drive.google.com/drive/folders/1qt8_X_UAaNM490q11pCees-E6kb-35O6?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
