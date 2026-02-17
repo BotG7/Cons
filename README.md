@@ -18,3 +18,5 @@ ___________________________________________________
 
 _________________________________________________
 Мат моделирование: https://drive.google.com/drive/folders/1qt8_X_UAaNM490q11pCees-E6kb-35O6?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
+________________________________________________
+бекенд питон: https://drive.google.com/drive/folders/1vyz2yg_AFh4z1wfbZycsFhoC2PWSzsSo?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
